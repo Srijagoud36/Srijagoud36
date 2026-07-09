@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**Srijagoud36/Srijagoud36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Srija**, a Computer Science Engineering student from India.
 
-Here are some ideas to get you started:
+I'm passionate about building web applications, REST APIs, and AI-based projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+- Java
+- Python
+- HTML, CSS, JavaScript
+- React
+- MySQL
+- Git & GitHub
+
+## 📌 Featured Projects
+- Blog REST API
+- AI Student Detection System
+- Portfolio Website
+
+## 🎯 Goals
+- Improve my development skills
+- Secure a Software Developer Internship
+- Contribute to Open Source
+
+## 📫 Connect with Me
+- LinkedIn: www.linkedin.com/in/srijakathi 
+- Email: srijagoud36@gmail.com
+
+⭐ Thanks for visiting my profile!
